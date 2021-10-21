@@ -42,4 +42,5 @@
 
 <br><br>
 
-[![Axseinga's GitHub stats](https://github-readme-stats.vercel.app/api?username=axseinga)](https://github.com/axseinga/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axseinga&layout=compact)](https://github.com/axseinga/github-readme-stats)
+
