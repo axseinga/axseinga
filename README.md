@@ -40,3 +40,6 @@
 
 #### I am currently learning ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white), ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) and ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white).
 
+<br><br>
+
+[![Axseinga's GitHub stats](https://github-readme-stats.vercel.app/api?username=axseinga)](https://github.com/axseinga/github-readme-stats)
