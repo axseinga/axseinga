@@ -5,6 +5,7 @@
 :arrow_right: I am currently finishing 6 months mentoring program and learning React. <br><br>
 :arrow_right: I am actively looking for a first job in the industry. <br><br>
 :arrow_right: I work on my personal projects. <br><br>
+:arrow_right: And collaborate with other future front-end developers from [CodersCamp 2021](https://github.com/CodersCamp2021)<br><br>
 :arrow_right: I am very passionate about front-end development and web applications. <br><br>
 :arrow_right: I take on challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/axseinga) <br><br>
 :arrow_right: and katas on [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/axseinga). <br><br>
