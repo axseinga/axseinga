@@ -2,10 +2,10 @@
 
 ### Welcome! Please feel free to roam my Github to get to know my road to becoming a Front-end Developer.
 
-:arrow_right: I am currently finishing 6 months mentoring program and learning React. <br><br>
 :arrow_right: I am actively looking for a first job in the industry. <br><br>
 :arrow_right: I work on my personal projects. <br><br>
-:arrow_right: And collaborate with other future front-end developers from [CodersCamp 2021](https://github.com/CodersCamp2021)<br><br>
+:arrow_right: And collaborate with other future front-end developers from [CodersCamp 2021](https://github.com/CodersCamp2021). Check our latest projects -> [Star Wars Quiz](https://github.com/axseinga/coderscamp_mo_projekt1) and [Budget App](https://github.com/m-ossolinski/coderscamp_2021_spa_project_2)<br><br>
+:arrow_right: I finished 6 months mentoring program with [Mateusz Bogolubow](https://devmentor.pl/). <br><br>
 :arrow_right: I am very passionate about front-end development and web applications. <br><br>
 :arrow_right: I take on challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/axseinga) <br><br>
 :arrow_right: and katas on [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/axseinga). <br><br>
@@ -39,9 +39,9 @@
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 
-#### Also have knowledge of ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white), ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7), Eslint, Prettier and can test in ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+#### Also have knowledge of ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white), ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7), Eslint, Prettier and can test in ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) and React Testing Library.
 
-#### I am currently learning React testing and planning to dive into ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white).
+#### I am currently learning ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white), ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) and about ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white).
 
 <br><br>
 
