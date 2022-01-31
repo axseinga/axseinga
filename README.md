@@ -4,7 +4,7 @@
 
 :arrow_right: I am actively looking for a first job in the industry. <br><br>
 :arrow_right: I work on my personal projects. <br><br>
-:arrow_right: And collaborate with other future front-end developers from [CodersCamp 2021](https://github.com/CodersCamp2021). Check our latest projects -> [Star Wars Quiz](https://github.com/axseinga/coderscamp_mo_projekt1) and [Budget App](https://github.com/m-ossolinski/coderscamp_2021_spa_project_2)<br><br>
+:arrow_right: And collaborate with other future front-end developers from [CodersCamp 2021](https://github.com/CodersCamp2021). <br> Check our latest projects -> [Star Wars Quiz](https://github.com/axseinga/coderscamp_mo_projekt1) and [Budget App](https://github.com/m-ossolinski/coderscamp_2021_spa_project_2)<br><br>
 :arrow_right: I finished 6 months mentoring program with [Mateusz Bogolubow](https://devmentor.pl/). <br><br>
 :arrow_right: I am very passionate about front-end development and web applications. <br><br>
 :arrow_right: I take on challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/axseinga) <br><br>
