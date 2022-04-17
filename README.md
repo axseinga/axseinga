@@ -9,7 +9,7 @@
 :arrow_right: I take on challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/axseinga) <br><br>
 :arrow_right: and katas on [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/axseinga). <br><br>
 :arrow_right: I love to learn, build things, and code. <br><br>
-:arrow_right: and also love my green babies so don't be surprise if you find here plant inspired designs or plant apps :green_heart: <br><br>
+:arrow_right: and also love my green babies so don't be surprised if you find here plant inspired designs or plant apps :green_heart: <br><br>
 :arrow_right: I enjoy a good coffee and keep buying new mugs <br><br>
 :arrow_right: you can find me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agnieszka-urbanowicz-051147151/)
 
