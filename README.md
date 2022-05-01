@@ -50,4 +50,3 @@
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axseinga&layout=compact)](https://github.com/axseinga/github-readme-stats) 
-https://github-readme-streak-stats.herokuapp.com/?user={axseinga}
