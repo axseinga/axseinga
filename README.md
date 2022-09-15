@@ -2,7 +2,7 @@
 
 ### Welcome! Please feel free to roam my Github to get to know my code.
 
-:arrow_right: Currently busy working and having fun as fullstack developer in [CodersCamp 2021](https://finervision.com)<br><br>
+:arrow_right: Currently busy working and having fun as fullstack developer in [Finer Vision](https://finervision.com)<br><br>
 :arrow_right: I work on my personal projects. <br><br>
 :arrow_right: I collaborated with other front-end developers from [CodersCamp 2021](https://github.com/CodersCamp2021). <br> Check our projects -> [Star Wars Quiz](https://github.com/axseinga/coderscamp_mo_projekt1) and [Budget App](https://github.com/m-ossolinski/coderscamp_2021_spa_project_2)<br><br>
 :arrow_right: I finished 6 months mentoring program with [Mateusz Bogolubow](https://devmentor.pl/). <br><br>
