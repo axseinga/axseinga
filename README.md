@@ -1,4 +1,4 @@
-![Green Floral Learn About Plants Classroom Banner](https://user-images.githubusercontent.com/46648993/160898520-c174b56e-1fc4-4441-a7d5-b9ee4549635a.png)
+![Green Floral Learn About Plants Classroom Banner](https://user-images.githubusercontent.com/46648993/201481937-90530952-3c8b-41b8-af81-f33c97f5e967.png)
 
 ### Welcome! Please feel free to roam my Github to get to know my code.
 
