@@ -6,7 +6,7 @@
 :arrow_right: I work on my personal projects. <br><br>
 :arrow_right: I collaborated with other front-end developers from [CodersCamp 2021](https://github.com/CodersCamp2021). <br> Check our projects -> [Star Wars Quiz](https://github.com/axseinga/coderscamp_mo_projekt1) and [Budget App](https://github.com/m-ossolinski/coderscamp_2021_spa_project_2)<br><br>
 :arrow_right: I finished 6 months mentoring program with [Mateusz Bogolubow](https://devmentor.pl/). <br><br>
-:arrow_right: I am very passionate about frontend and backend development, and web applications. <br><br>
+:arrow_right: I am very passionate about frontend and backend development. <br><br>
 :arrow_right: I take on challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/axseinga) <br><br>
 :arrow_right: and katas on [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/axseinga). <br><br>
 :arrow_right: I love to learn, build things, and code. <br><br>
