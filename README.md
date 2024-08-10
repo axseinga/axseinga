@@ -26,10 +26,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br>
 #### Frameworks, libs, DBs and other tools: <be>
 
+![Next.js](https://img.shields.io/badge/Next.js-5DB655?style=for-the-badge&labelColor=white)
 ![Sass](https://img.shields.io/badge/Sass-5DB655?style=for-the-badge&labelColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-5DB655?style=for-the-badge&labelColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-5DB655?style=for-the-badge&labelColor=white)
-![RWD](https://img.shields.io/badge/RWD-5DB655?style=for-the-badge&labelColor=white)
+![RWD](https://img.shields.io/badge/RWD-5DB655?style=for-the-badge&labelColor=white) <br>
 ![BEM](https://img.shields.io/badge/BEM-5DB655?style=for-the-badge&labelColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-5DB655?style=for-the-badge&labelColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-5DB655?style=for-the-badge&labelColor=white)
