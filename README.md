@@ -10,7 +10,7 @@
 :arrow_right: I take on challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/axseinga) <br><br>
 :arrow_right: and katas on [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/axseinga). <br><br>
 :arrow_right: I love to learn, build things, and code. <br><br>
-:arrow_right: and also love my green babies so don't be surprised if you find plant inspired designs or plant apps here :green_heart: <br><br>
+:arrow_right: and also love my green babies so don't be surprised if you find plant-inspired designs or plant apps here :green_heart: <br><br>
 :arrow_right: I enjoy a good coffee and keep buying new mugs <br><br>
 :arrow_right: you can find me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agnieszka-urbanowicz-051147151/)
 
@@ -24,10 +24,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-#### Frameworks, libs, DBs and other tools: <br>
+#### Frameworks, libs, DBs and other tools: <be>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white), 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
