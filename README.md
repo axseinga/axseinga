@@ -37,8 +37,8 @@
 ![Git](https://img.shields.io/badge/Git-5DB655?style=for-the-badge&labelColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-5DB655?style=for-the-badge&labelColor=white)<br>
 ![Gitbucket](https://img.shields.io/badge/Gitbucket-5DB655?style=for-the-badge&labelColor=white)
-![BEM](https://img.shields.io/badge/BEM-5DB655?style=for-the-badge&labelColor=white)
 ![webpack](https://img.shields.io/badge/webpack-5DB655?style=for-the-badge&labelColor=white)
+![BEM](https://img.shields.io/badge/BEM-feffa2?style=for-the-badge&labelColor=white)
 ![turbopack](https://img.shields.io/badge/turbopack-5DB655?style=for-the-badge&labelColor=white)
 ![parcel](https://img.shields.io/badge/parcel-5DB655?style=for-the-badge&labelColor=white)
 ![vite](https://img.shields.io/badge/vite-5DB655?style=for-the-badge&labelColor=white) <br>
@@ -47,7 +47,7 @@
 ![PNPM](https://img.shields.io/badge/PNPM-5DB655?style=for-the-badge&labelColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-5DB655?style=for-the-badge&labelColor=white)
 ![Craft](https://img.shields.io/badge/Craft-5DB655?style=for-the-badge&labelColor=white)
-![Contentful](https://img.shields.io/badge/Contentful-5DB655?style=for-the-badge&labelColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-5DB655?style=for-the-badge&labelColor=white)<br>
 ![HygraphCMS](https://img.shields.io/badge/HygraphCMS-5DB655?style=for-the-badge&labelColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-5DB655?style=for-the-badge&labelColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-5DB655?style=for-the-badge&labelColor=white)
