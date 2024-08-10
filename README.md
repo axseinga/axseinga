@@ -31,12 +31,12 @@
 ![Styled Components](https://img.shields.io/badge/Styled_Components-5DB655?style=for-the-badge&labelColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-5DB655?style=for-the-badge&labelColor=white)
 ![RWD](https://img.shields.io/badge/RWD-5DB655?style=for-the-badge&labelColor=white) <br>
-![BEM](https://img.shields.io/badge/BEM-5DB655?style=for-the-badge&labelColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-5DB655?style=for-the-badge&labelColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-5DB655?style=for-the-badge&labelColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-5DB655?style=for-the-badge&labelColor=white)
 ![Git](https://img.shields.io/badge/Git-5DB655?style=for-the-badge&labelColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-5DB655?style=for-the-badge&labelColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5DB655?style=for-the-badge&labelColor=white)<br>
+![BEM](https://img.shields.io/badge/BEM-5DB655?style=for-the-badge&labelColor=white)
 ![Gitbucket](https://img.shields.io/badge/Gitbucket-5DB655?style=for-the-badge&labelColor=white)
 ![webpack](https://img.shields.io/badge/webpack-5DB655?style=for-the-badge&labelColor=white)
 ![turbopack](https://img.shields.io/badge/turbopack-5DB655?style=for-the-badge&labelColor=white)
